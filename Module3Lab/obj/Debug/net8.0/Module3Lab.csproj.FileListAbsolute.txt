@@ -1,0 +1,15 @@
+/workspaces/module3Lab-/Module3Lab/bin/Debug/net8.0/Module3Lab
+/workspaces/module3Lab-/Module3Lab/bin/Debug/net8.0/Module3Lab.deps.json
+/workspaces/module3Lab-/Module3Lab/bin/Debug/net8.0/Module3Lab.runtimeconfig.json
+/workspaces/module3Lab-/Module3Lab/bin/Debug/net8.0/Module3Lab.dll
+/workspaces/module3Lab-/Module3Lab/bin/Debug/net8.0/Module3Lab.pdb
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.AssemblyInfoInputs.cache
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.AssemblyInfo.cs
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.csproj.CoreCompileInputs.cache
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.sourcelink.json
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.dll
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/refint/Module3Lab.dll
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.pdb
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/Module3Lab.genruntimeconfig.cache
+/workspaces/module3Lab-/Module3Lab/obj/Debug/net8.0/ref/Module3Lab.dll
